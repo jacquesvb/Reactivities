@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{C18C5403-8F5D-488F-81D7-F7A2FEC5B9E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="API/Program.cs" Line="35" Column="24" />
+      <File FileName="Persistence/DataContext.cs" Line="1" Column="1" />
+      <File FileName="API/Controllers/ValuesController.cs" Line="11" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Reactivities" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ValuesController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Application" expanded="True" />
+            <Node name="Domain" expanded="True" />
+            <Node name="Persistence" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
